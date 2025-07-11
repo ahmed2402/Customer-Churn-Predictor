@@ -144,6 +144,6 @@ if submitted:
         """)
     
     # Feature importance button
-    if st.button("Explain Prediction"):
-        st.write("Feature importance analysis would go here")
+    # if st.button("Explain Prediction"):
+    #     st.write("Feature importance analysis would go here")
         # You would add SHAP or LIME explanations here
